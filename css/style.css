@@ -1,0 +1,36 @@
+body {
+  background: blueviolet;
+  color: aliceblue;
+}
+
+header {
+  text-align: center;
+  border: 5px black solid;
+}
+
+footer {
+  text-align: center;
+  border: 5px black solid;
+}
+
+.container {
+  display: flex;
+}
+
+.container div {
+  border: 5px black solid;
+  margin: 1em;
+}
+
+.box1 {
+  padding: 1em;
+  width: 300px;
+  background: aquamarine;
+  color: black;
+}
+
+.box2 {
+  padding: 1em;
+  background: olive;
+  color: white;
+}
