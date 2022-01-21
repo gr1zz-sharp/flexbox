@@ -17,8 +17,16 @@ footer {
   color: black;
 }
 
+.body {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+}
+
 .container {
   display: flex;
+  align-items: flex-start;
 }
 
 .container div {
